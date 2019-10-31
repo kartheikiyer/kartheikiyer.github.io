@@ -2,10 +2,11 @@
 markdown:         kramdown
 highlighter:      rouge
 
-remote_theme: fongandrew/hydeout
+remote_theme:     fongandrew/hydeout
 
 # Setup
 title:            KIyer's research
+#title:            Kartheik Iyer
 tagline:          'On galaxy SFHs and other things'
 description:      'Astrophysics and machine learning buff. <br /> Dunlap Postdoctoral Fellow @ UofT.'
 url:              https://kartheikiyer.github.io
@@ -19,6 +20,11 @@ baseurl:          ''
 author:
   name:           'Kartheik Iyer'
   url:            https://kartheikiyer.github.io
+
+
+disqus:
+    shortname: karthinc
+
 
 paginate:         5
 # paginate_path:    '/page:num'
