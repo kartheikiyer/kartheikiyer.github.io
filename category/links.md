@@ -5,6 +5,8 @@ title: Useful Links
 
 1. My PhD [thesis](https://drive.google.com/file/d/10T8yvnHXCBvuMvW127zKQHpX9QhugXiL/view?usp=sharing).
 
+3. Publications on [ADS](https://bit.ly/30rpGdJ).
+
 2. Conferences:
     * Astronomy: [CADC](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/getMeetings.html?year=2020&title=2020%20Meetings).
     * Lorentz center: [2020 list](https://www.lorentzcenter.nl/lc/web/program.php3?jaar=2020).

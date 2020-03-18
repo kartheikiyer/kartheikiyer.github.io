@@ -8,6 +8,8 @@ title: About me
 to low S/N problems in astrophysics.
 </p>
 
+My publications can be found on [ADS](https://bit.ly/30rpGdJ). 
+
 Feel free to reach out if you have any questions regarding my research, or are interested in using the Dense Basis code for fitting your sample of Spectral Energy Distributions to reconstruct the star formation histories of galaxies. I am currently located at
 
 AB 205, Department of Astronomy and Astrophysics, \\

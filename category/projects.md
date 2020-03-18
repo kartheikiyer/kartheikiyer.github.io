@@ -15,6 +15,8 @@ The initial version of this methodology tests different parametric forms and the
 
 An improved version of this methodology goes beyond parametric forms altogether, and uses Gaussian Processes in SFH space to create smooth, nonparametric reconstructions of galaxy SFHs. This has been applied to all five CANDELS fields to reconstruct the SFHs of nearly 50,000 galaxies from their broadband photometry. Current efforts are looking at correlating the SFHs of individual galaxies with other factors that trace galaxy growth, such as their environments and morphologies. For more details on use cases, applications and current developments email me, or read the paper on ArXiv -> [1901.02877](https://arxiv.org/pdf/1901.02877).
 
+Update: The Dense Basis code is now publicly available. See the [github](https://github.com/kartheikiyer/dense_basis) repo or the [readthedocs](https://dense-basis.readthedocs.io/) page for more details.
+
 ***
 
 
