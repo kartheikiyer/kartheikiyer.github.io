@@ -26,6 +26,8 @@ Update: The Dense Basis code is now publicly available. See the [github](https:/
 
 Robustly analyzing the SFHs of galaxies from different simulations across a range of timescales to understand what sets the diversity of SFHs within a simulation and the impact of different physics recipes across different simulations. This research is based on  work done during the Kavli Summer Program in Astrophysics (KSPA) 2018.
 
+You can find the paper on ArXiv @[2007.07916](https://arxiv.org/abs/2007.07916).
+
 ***
 
 

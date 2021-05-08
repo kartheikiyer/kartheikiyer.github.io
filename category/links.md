@@ -3,7 +3,7 @@ layout: category
 title: Useful Links
 ---
 
-1. My PhD [thesis](https://drive.google.com/file/d/10T8yvnHXCBvuMvW127zKQHpX9QhugXiL/view?usp=sharing).
+1. My [PhD. thesis](https://drive.google.com/file/d/10T8yvnHXCBvuMvW127zKQHpX9QhugXiL/view?usp=sharing).
 
 3. Publications on [ADS](https://bit.ly/30rpGdJ).
 
@@ -24,6 +24,8 @@ title: Useful Links
     * [Markdown](https://commonmark.org/help/tutorial/index.html)
     * [Open seadragon](https://openseadragon.github.io/)
     * [Openspace](https://www.openspaceproject.com/)
+    * [Bokeh](https://docs.bokeh.org/en/latest/index.html)
+    * [Streamlit](https://streamlit.io/)
 
 6. Explore the relations between [distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html).
 
