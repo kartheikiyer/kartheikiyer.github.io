@@ -1,5 +1,0 @@
-numpy
-ipywidgets
-nbinteract
-george
-astropy
